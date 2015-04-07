@@ -1,0 +1,17 @@
+C:\Users\johnsoaa\Documents\GitHub\CSSE376Mocking\ExpediaTest\bin\Debug\ExpediaTest.dll
+C:\Users\johnsoaa\Documents\GitHub\CSSE376Mocking\ExpediaTest\bin\Debug\ExpediaTest.pdb
+C:\Users\johnsoaa\Documents\GitHub\CSSE376Mocking\ExpediaTest\bin\Debug\mscorlib.2.0.0.0.Fakes.fakesconfig
+C:\Users\johnsoaa\Documents\GitHub\CSSE376Mocking\ExpediaTest\bin\Debug\System.2.0.0.0.Fakes.fakesconfig
+C:\Users\johnsoaa\Documents\GitHub\CSSE376Mocking\ExpediaTest\bin\Debug\Expedia.dll
+C:\Users\johnsoaa\Documents\GitHub\CSSE376Mocking\ExpediaTest\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\johnsoaa\Documents\GitHub\CSSE376Mocking\ExpediaTest\bin\Debug\mscorlib.2.0.0.0.Fakes.dll
+C:\Users\johnsoaa\Documents\GitHub\CSSE376Mocking\ExpediaTest\bin\Debug\Rhino.Mocks.dll
+C:\Users\johnsoaa\Documents\GitHub\CSSE376Mocking\ExpediaTest\bin\Debug\System.2.0.0.0.Fakes.dll
+C:\Users\johnsoaa\Documents\GitHub\CSSE376Mocking\ExpediaTest\bin\Debug\Expedia.pdb
+C:\Users\johnsoaa\Documents\GitHub\CSSE376Mocking\ExpediaTest\bin\Debug\mscorlib.2.0.0.0.Fakes.xml
+C:\Users\johnsoaa\Documents\GitHub\CSSE376Mocking\ExpediaTest\bin\Debug\Rhino.Mocks.xml
+C:\Users\johnsoaa\Documents\GitHub\CSSE376Mocking\ExpediaTest\bin\Debug\System.2.0.0.0.Fakes.xml
+C:\Users\johnsoaa\Documents\GitHub\CSSE376Mocking\ExpediaTest\obj\Debug\ExpediaTest.csprojFakesResolveAssemblyReference.cache
+C:\Users\johnsoaa\Documents\GitHub\CSSE376Mocking\ExpediaTest\obj\Debug\ExpediaTest.csprojResolveAssemblyReference.cache
+C:\Users\johnsoaa\Documents\GitHub\CSSE376Mocking\ExpediaTest\obj\Debug\ExpediaTest.dll
+C:\Users\johnsoaa\Documents\GitHub\CSSE376Mocking\ExpediaTest\obj\Debug\ExpediaTest.pdb

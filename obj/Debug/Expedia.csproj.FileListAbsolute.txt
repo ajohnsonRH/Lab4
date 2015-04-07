@@ -1,0 +1,6 @@
+C:\Users\johnsoaa\Documents\GitHub\CSSE376Mocking\bin\Debug\Expedia.dll
+C:\Users\johnsoaa\Documents\GitHub\CSSE376Mocking\bin\Debug\Expedia.pdb
+C:\Users\johnsoaa\Documents\GitHub\CSSE376Mocking\bin\Debug\Rhino.Mocks.dll
+C:\Users\johnsoaa\Documents\GitHub\CSSE376Mocking\bin\Debug\Rhino.Mocks.xml
+C:\Users\johnsoaa\Documents\GitHub\CSSE376Mocking\obj\Debug\Expedia.dll
+C:\Users\johnsoaa\Documents\GitHub\CSSE376Mocking\obj\Debug\Expedia.pdb
